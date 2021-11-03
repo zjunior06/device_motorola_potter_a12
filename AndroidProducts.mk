@@ -3,4 +3,5 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
     ev_potter-user \
-    ev_potter-userdebug
+    ev_potter-userdebug \
+    ev_potter-eng
