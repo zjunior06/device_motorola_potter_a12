@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ev_potter.mk
+    $(LOCAL_DIR)/aosp_potter.mk
 
 COMMON_LUNCH_CHOICES := \
-    ev_potter-user \
-    ev_potter-userdebug \
-    ev_potter-eng
+    aosp_potter-user \
+    aosp_potter-userdebug \
+    aosp_potter-eng
